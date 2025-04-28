@@ -1,3 +1,4 @@
+import React from 'react';
 import Badges from "../components/Badges"
 import { Link } from "react-router-dom"
 
